@@ -1,3 +1,3 @@
-# Welcome to Alphora!
+# Alphora Profile Repository
 
-Alphora is a global leader in tools and services for Clinical Reasoning on FHIR. Visit www.alphora.com for more information.
+This repository is used for organization-wide GitHub settings.
