@@ -11,7 +11,7 @@ Requirements
 
 Use cases with business rules
 
-Mock-ups of design (optional)
+UX/UI design (optional)
 
 Acceptance criteria
 
