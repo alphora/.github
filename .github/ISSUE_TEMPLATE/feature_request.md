@@ -12,7 +12,9 @@ User Story
 Dependencies
 
 Acceptance criteria
+
 -UI
+
 -Functionality
 
 UX/UI design (optional)
