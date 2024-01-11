@@ -7,14 +7,20 @@ assignees: ''
 
 ---
 
-Requirements
+User Story
 
-Use cases with business rules
+Dependencies
+
+Acceptance criteria
+-UI
+-Functionality
 
 UX/UI design (optional)
 
-Acceptance criteria
+Architecture design
 
-Story points
+Data mapping & resources (optional)
+
+Estimation
 
 Small enough to fit into a single sprint
