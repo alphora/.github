@@ -23,6 +23,8 @@ Architecture design
 
 Data mapping & resources (optional)
 
+Open source/Commercial? If Commercial, which module does it fall under?
+
 Estimation
 
 Small enough to fit into a single sprint
